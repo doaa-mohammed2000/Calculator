@@ -1,0 +1,30 @@
+C:\Users\ALESRAA\source\repos\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe.config
+C:\Users\ALESRAA\source\repos\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe
+C:\Users\ALESRAA\source\repos\Calculator 2\Calculator 2\bin\Debug\Calculator 2.pdb
+C:\Users\ALESRAA\source\repos\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csprojAssemblyReference.cache
+C:\Users\ALESRAA\source\repos\Calculator 2\Calculator 2\obj\Debug\Calculator_2.Calculator.resources
+C:\Users\ALESRAA\source\repos\Calculator 2\Calculator 2\obj\Debug\Calculator_2.Properties.Resources.resources
+C:\Users\ALESRAA\source\repos\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csproj.GenerateResource.cache
+C:\Users\ALESRAA\source\repos\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csproj.CoreCompileInputs.cache
+C:\Users\ALESRAA\source\repos\Calculator 2\Calculator 2\obj\Debug\Calculator 2.exe
+C:\Users\ALESRAA\source\repos\Calculator 2\Calculator 2\obj\Debug\Calculator 2.pdb
+C:\Users\ALESRAA\Desktop\Claculator\Calculator 2\bin\Debug\Calculator 2.exe.config
+C:\Users\ALESRAA\Desktop\Claculator\Calculator 2\bin\Debug\Calculator 2.exe
+C:\Users\ALESRAA\Desktop\Claculator\Calculator 2\bin\Debug\Calculator 2.pdb
+C:\Users\ALESRAA\Desktop\Claculator\Calculator 2\obj\Debug\Calculator 2.csprojAssemblyReference.cache
+C:\Users\ALESRAA\Desktop\Claculator\Calculator 2\obj\Debug\Calculator_2.Calculator.resources
+C:\Users\ALESRAA\Desktop\Claculator\Calculator 2\obj\Debug\Calculator_2.Properties.Resources.resources
+C:\Users\ALESRAA\Desktop\Claculator\Calculator 2\obj\Debug\Calculator 2.csproj.GenerateResource.cache
+C:\Users\ALESRAA\Desktop\Claculator\Calculator 2\obj\Debug\Calculator 2.csproj.CoreCompileInputs.cache
+C:\Users\ALESRAA\Desktop\Claculator\Calculator 2\obj\Debug\Calculator 2.exe
+C:\Users\ALESRAA\Desktop\Claculator\Calculator 2\obj\Debug\Calculator 2.pdb
+D:\D\Claculator\Calculator 2\bin\Debug\Calculator 2.exe.config
+D:\D\Claculator\Calculator 2\bin\Debug\Calculator 2.exe
+D:\D\Claculator\Calculator 2\bin\Debug\Calculator 2.pdb
+D:\D\Claculator\Calculator 2\obj\Debug\Calculator 2.csproj.AssemblyReference.cache
+D:\D\Claculator\Calculator 2\obj\Debug\Calculator_2.Calculator.resources
+D:\D\Claculator\Calculator 2\obj\Debug\Calculator_2.Properties.Resources.resources
+D:\D\Claculator\Calculator 2\obj\Debug\Calculator 2.csproj.GenerateResource.cache
+D:\D\Claculator\Calculator 2\obj\Debug\Calculator 2.csproj.CoreCompileInputs.cache
+D:\D\Claculator\Calculator 2\obj\Debug\Calculator 2.exe
+D:\D\Claculator\Calculator 2\obj\Debug\Calculator 2.pdb
